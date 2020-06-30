@@ -7,5 +7,10 @@ public class ifThen {
         if (isOn) {
             System.out.println("Lamp is turning on!");
         }
+
+        String s1 = "geekquiz";
+        String s2 = "geekquiz";
+        System.out.println("s1 == s2 : " + (s1 == s2));
+
     }
 }

@@ -9,5 +9,7 @@ public class Main {
         }
 
         System.out.println("Sampai " + Arithmatic.nilai);
+
+        System.out.println("getNilai memiliki nilai " + Arithmatic.getNilai());
     }
 }
